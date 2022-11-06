@@ -59,7 +59,7 @@ int main()
 
 void insert()
 {
-    if (r == n)
+    if (r == n-1)
     {
         printf("Queue is full ");
     }
